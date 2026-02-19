@@ -5,6 +5,7 @@
 .terraform/
 .terraform.lock.hcl
 *.tfvars
+!terraform.example.tfvars
 *.tfvars.json
 override.tf
 override.tf.json

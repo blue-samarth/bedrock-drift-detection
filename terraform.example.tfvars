@@ -1,0 +1,7 @@
+aws_region          = "us-west-2"
+project_name        = "Sample-Terraform-Project"
+environment         = "dev"
+namespace           = "sample-namespace"
+s3_bucket_name      = "sample-terraform-state-bucket"
+dynamodb_table_name = "sample-terraform-lock-table"
+aws_profile         = "default"
