@@ -888,8 +888,7 @@ This project is provided as-is for educational and demonstration purposes.
 For issues, questions, or contributions:
 
 1. Check the [Troubleshooting](#-troubleshooting) section
-2. Review [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md) for detailed information
-3. Open an issue in the repository
+2. Open an issue in the repository
 
 ---
 
